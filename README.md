@@ -17,7 +17,8 @@ my work and technical background.
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+- UI/UX Designing
 - Three.js  
 - GitHub Pages (Deployment)
 
